@@ -9,7 +9,7 @@ public class Main {
         Passengers p2 = new Passengers("천지민", 3500);
         //Passengers p3 = new Passengers("조명하", 3000);
 
-        //ad
+
         p1.takeTransportation(subway);
         p2.takeTransportation(subway);
         p2.takeTransportation(bus);
